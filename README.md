@@ -208,7 +208,7 @@ Los datos fueron adaptados y estructurados en formato **JSON** exclusivamente co
 
 # 🚀 Próximas mejoras
 
-- ⭐ Sistema de favoritos.
+- ⭐ Sistema de favoritos para guardar protectores solares por usuario.
 - 📜 Historial de consultas.
 - ❤️ Comparador de productos.
 - 🔎 Filtros avanzados.
