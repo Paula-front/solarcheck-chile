@@ -14,19 +14,20 @@ Aplicación web desarrollada con **Vue 3** para consultar protectores solares re
 
 # 📑 Índice
 
-- Descripción
-- Demo
-- Repositorio
-- Características
-- Capturas
-- Usuario Demo
-- Registros ISP para probar
-- Tecnologías
-- Estructura del proyecto
-- Instalación
-- Fuente de datos
-- Próximas mejoras
-- Autora
+- [☀️ Descripción](#-descripción)
+- [🌐 Demo](#-demo)
+- [📂 Repositorio](#-repositorio)
+- [✨ Características principales](#-características-principales)
+- [📸 Capturas](#-capturas)
+- [👤 Usuario Demo](#-usuario-demo)
+- [🔎 Registros ISP para probar](#-registros-isp-para-probar)
+- [🛠 Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [📁 Estructura del proyecto](#-estructura-del-proyecto)
+- [🚀 Instalación](#-instalación)
+- [📊 Fuente de datos](#-fuente-de-datos)
+- [🚀 Próximas mejoras](#-próximas-mejoras)
+- [👩‍💻 Autora](#-autora)
+- [⭐ Apoya este proyecto](#-apoya-este-proyecto)
 
 ---
 
