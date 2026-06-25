@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/* Variables globales */
+
+:root {
+  --solar-yellow: #ffd54f;
+  --solar-orange: #ffb300;
+  --solar-coral: #ff6b6b;
+  --solar-sky: #4fc3f7;
+  --solar-blue: #0f4c81;
+  --solar-dark: #073b4c;
+  --solar-green: #2ecc71;
+  --solar-red: #e74c3c;
+  --solar-bg: #f8fbff;
+  --solar-text: #263238;
+  --solar-muted: #6c757d;
+  --solar-white: #ffffff;
+  --solar-radius: 28px;
+  --solar-shadow: 0 20px 50px rgba(15, 76, 129, 0.16);
+}
+
+/* Reset */
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    font-family:'Poppins',sans-serif;
+    background:var(--solar-bg);
+    color:var(--solar-text);
+}
+
+a{
+    text-decoration:none;
+}
+
+.solar-page{
+    min-height:100vh;
+}
+
+@import './components/navbar';
+@import './components/buttons';
+@import './components/product-card';
+
+@import './layout/footer';
+
+@import './pages/home';
+@import './pages/search';
+@import './pages/detail';
+@import './pages/auth';
+@import './pages/profile';
